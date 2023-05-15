@@ -1,0 +1,4 @@
+torch==1.13.1
+pettingzoo==1.22.3
+packaging==21.3
+tianshou @ git+https://github.com/WillDudley/tianshou.git
